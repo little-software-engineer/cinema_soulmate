@@ -133,8 +133,8 @@ function App() {
           onClick={() => setShowFavoritesOnly(!showFavoritesOnly)}
         >
           {showFavoritesOnly
-            ? "⬅ Back to Discover"
-            : `❤️ My Favorites (${favorites.length})`}
+            ? " Back to Discover"
+            : ` My Favorites (${favorites.length})`}
         </button>
       </div>
 
@@ -160,7 +160,7 @@ function App() {
 
       <footer className="signature">
         <p>
-          Made with ❤️ by{" "}
+          Made with love by{" "}
           <a
             href="https://github.com/little-software-engineer"
             target="_blank"
