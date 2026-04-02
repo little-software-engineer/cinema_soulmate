@@ -1,4 +1,4 @@
-# 🎬 Cinema Soulmate
+#  Cinema Soulmate
 
 **Cinema Soulmate** is a modern, responsive web application designed for movie enthusiasts to discover films based on their current "vibe." Unlike generic movie lists, it allows users to mix multiple genres, search for specific titles, and instantly check where to stream their next favorite film.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Multi-Genre "Mood" Mixer:** Select and combine multiple genre tags to find hyper-specific movie recommendations (e.g., Horror + Comedy).
 - **Instant Search:** Real-time search functionality with **Debouncing** to optimize API performance and user experience.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js (Hooks, Functional Components)
 - **Tooling:** Vite (Build tool), Axios (API Requests)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Technical Challenges & Learnings
+##  Technical Challenges & Learnings
 
 ### 1. Optimizing API Calls with Debouncing
 
@@ -44,7 +44,7 @@ For the "Details" modal, I utilized `Promise.all` to fetch trailer data and stre
 
 ---
 
-## 💻 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
